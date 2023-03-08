@@ -3,7 +3,7 @@ OpenCore based EFI for Dell Precision 5510
 
 
 
-![5510](https://user-images.githubusercontent.com/93620854/223790968-d827e4bd-ab72-4bc3-b54f-6347cccbd6bc.jpg)
+![5510](https://user-images.githubusercontent.com/93620854/223791124-afe7bfad-726b-499f-8a28-a0b6f14584ab.png)
 
 
 
